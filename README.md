@@ -1,4 +1,4 @@
-**THIS RESOURCE PACK REQUIRES SNAPSHOT 24w46a OR LATER!**
+**THIS RESOURCE PACK REQUIRES 1.21.4 OR LATER!**
 
 See your actual, real life time, in game, on the clock item!
 
